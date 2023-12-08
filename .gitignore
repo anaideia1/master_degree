@@ -1,0 +1,7 @@
+.idea
+*.db
+*.pyc
+env/*
+media/
+.env
+venv

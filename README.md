@@ -1,1 +1,1 @@
-Backend aplication for AI image animation model.
+Backend application for AI image animation model.
